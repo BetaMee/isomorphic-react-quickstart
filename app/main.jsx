@@ -1,7 +1,7 @@
 import React,{Component} from 'react';
 import ReactDOM from 'react-dom';
 
-const AppRouter=()=>(
+const App=()=>(
     <h1>
         Hello World!
     </h1>
@@ -10,6 +10,6 @@ const AppRouter=()=>(
 
 
 ReactDOM.render(   
-      <AppRouter/>,
+      <App/>,
     document.getElementById('app')
 );
