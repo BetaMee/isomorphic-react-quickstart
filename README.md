@@ -2,15 +2,14 @@
 a isomorphic-react project quick start kit
 
 
+## env:
 
+- node: v6.9.4
 
-node: v6.9.4
+- yarn: v0.20.3
 
-yarn: v0.20.3
+- mongo: v3.4.2
 
-mongo: v3.4.2
-
-OS: Win10
 
 # Technology Stack
 
