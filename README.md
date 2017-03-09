@@ -31,11 +31,11 @@ OS: Win10
 
 # Usage:
 
-installation `yarn`
+- installation: `yarn`
 
-run in devlopment: `yarn run dev`
+- run in devlopment: `yarn run dev`
 
-run in production:`yarn run build` && `yarn run serve`
+- run in production:`yarn run build` && `yarn run serve`
 
 
 ## What's included
