@@ -2,7 +2,7 @@
 a isomorphic-react project quick start kit
 
 
-## env:
+# env:
 
 - node: v6.9.4
 
